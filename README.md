@@ -5,7 +5,7 @@
 
 To turn the vertical corpus into a flat one, you can run the following script:
 ```
-python3 vertical2corpus.py folder_in folder_out label
+python3 vertical2corpus.py folder_in folder_out mode
 ```
 
 You can choose to flat raw text, lemmas or pos tags:

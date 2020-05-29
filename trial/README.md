@@ -17,7 +17,9 @@ python3 vertical2corpus.py folder_in folder_out label
 You can choose to flat raw text, lemmas or pos tags:
 
 Raw text
+'''
 python3 vertical2corpus.py folder_in folder_out 0
+'''
 
 Lemmas
 python3 vertical2corpus.py folder_in folder_out 1

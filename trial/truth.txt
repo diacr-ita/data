@@ -1,0 +1,5 @@
+matematica	0
+dettagliato	0
+sanità	0
+senatore	1
+istruzione	1
